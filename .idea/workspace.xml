@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="403281f0-c734-4b5f-aca3-f5e0e625e243" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DN_CodeGym_JavaCore/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced_object_oriented_design/advanced_object_oriented_design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/array_and_method_in_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/CountCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/CountStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/DeleteElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/FindStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/InsertNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MainDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MaxListNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/Max_2_DimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MinListNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MineSweeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/PoolingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/SumOf1Column.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/TemperatureTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_and_method_in_java/src/test/java/com/codegym/array_and_method_in_java/ArrayAndMethodInJavaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/class_and_object_in_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_object_in_java/src/test/java/com/codegym/class_and_object_in_java/ClassAndObjectInJavaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/circleAndCylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/circleAndCylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/point2DAndPoint3D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/point2DAndPoint3D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/pointAndMoveablePoint/MoveAblePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/pointAndMoveablePoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/src/test/java/com/codegym/inheritance/InheritanceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/java-programming-language.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/ApplicationToCalculateLoanInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/ApplicationToReadNumbersIntoWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/BodyWeightIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/CheckLeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/CurrencyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/DeclareAndUseVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/DisplayOfGeometricTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/HelloName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/NumberOfDaysOfAMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/RectangularArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/ShowPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/main/java/com/codegym/javaprogramminglanguage/TheFirstEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-programming-language/src/test/java/com/codegym/javaprogramminglanguage/JavaProgrammingLanguageApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/114172/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/114172/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/114176/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/114176/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/BMI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/BMI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Convert/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Convert/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Element/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Element/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Hello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Hello/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/InitVar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/InitVar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Perform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Perform/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Perform/out/production/Perform/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Perform/out/production/Perform/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Perform/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/Perform/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/equation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/equation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/menu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/01.JavaProgramming/menu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/build/libs/customer-managment-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/build/libs/customer-managment-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/META-INF/customer-managment_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/com/codegym/cms/controller/BlogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/com/codegym/cms/model/Blog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/com/codegym/cms/repository/BlogRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/com/codegym/cms/repository/BlogRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/com/codegym/cms/repository/CustomerRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/com/codegym/cms/repository/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/com/codegym/cms/service/BlogService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/out/production/classes/com/codegym/cms/service/BlogServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/src/main/java/com/codegym/cms/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01.JavaBackend/17.JavaProgramming/customer-managment-mvc/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/src/main/resources/db/abc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/src/main/resources/db/changelog/create10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/src/main/resources/db/changelog/sql/create.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VScode/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/java-programming-language/target/" />
+    <ignored path="$PROJECT_DIR$/array_and_method_in_java/target/" />
+    <ignored path="$PROJECT_DIR$/class_and_object_in_java/target/" />
+    <ignored path="$PROJECT_DIR$/inheritance/target/" />
+    <ignored path="$PROJECT_DIR$/advanced_object_oriented_design/target/" />
+    <ignored path="$PROJECT_DIR$/data_structure_and_basic_algorithm/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/SetExample.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/MapString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" selection-start-column="55" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myList/MyListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myList/MyList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" selection-start-column="55" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/MyLinkedListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/linkedList/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" selection-start-column="55" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/linkedList/MyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/MyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" selection-start-column="55" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/DeleteElement.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/FindStudent.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/InsertNumber.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MainDiagonal.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MinArray.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MineSweeper.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MinListNumber.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/PoolingArray.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/SumOf1Column.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/TemperatureTransfer.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/Max_2_DimensionalArrays.java" />
+        <option value="$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MaxListNumber.java" />
+        <option value="$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/Fan.java" />
+        <option value="$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/QuadraticEquation.java" />
+        <option value="$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/Rectangle.java" />
+        <option value="$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/StopWatch.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Circle.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Shape.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Rectangle.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Square.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/Triangle.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/pointAndMoveablePoint/Point.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/pointAndMoveablePoint/MoveablePoint.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/pointAndMoveablePoint/MoveAblePoint.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/point2DAndPoint3D/Point2D.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/point2DAndPoint3D/Point3D.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/circleAndCylinder/Circle.java" />
+        <option value="$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/circleAndCylinder/Cylinder.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/SquareComparator.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/Square.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/Shape.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/Resizeable.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/RectangleComparator.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/Rectangle.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/ComparableCircle.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/Colorable.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/CircleComparator.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/Circle.java" />
+        <option value="$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/Circle.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/Student.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/SetExample.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/MapString.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myList/MyListTest.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myList/MyList.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/Node.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/MyLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/linkedList/Node.java" />
+        <option value="$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/linkedList/MyLinkedList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="45" />
+    <option name="width" value="981" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="myLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_and_basic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="myList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564734188002" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Student">
+    <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="animalAndInterfaceEdible.AbstractAndInterfaceTests" />
+      <module name="advanced_object_oriented_design" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.inheritance.circleAndCylinder.Circle" />
+      <module name="inheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.advanced_object_oriented_design.interfaceComparator.impl.CircleComparator" />
+      <module name="advanced_object_oriented_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.advanced_object_oriented_design.interfaceComparator.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparableCircle" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.advanced_object_oriented_design.interfaceComparator.impl.ComparableCircle" />
+      <module name="advanced_object_oriented_design" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountCharacters" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.CountCharacters" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.CountStudent" />
+      <module name="array_and_method_in_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.array_and_method_in_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cylinder" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.inheritance.circleAndCylinder.Cylinder" />
+      <module name="inheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.DeleteElement" />
+      <module name="array_and_method_in_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.array_and_method_in_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fan" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.class_and_object_in_java.Fan" />
+      <module name="class_and_object_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindStudent" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.FindStudent" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.javaprogramminglanguage.GreatestCommonDivisor" />
+      <module name="java-programming-language" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertNumber" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.InsertNumber" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainDiagonal" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.MainDiagonal" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapString" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.data_structure_and_basic_algorithm.MapString" />
+      <module name="data_structure_and_basic_algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxListNumber" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.MaxListNumber" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Max_2_DimensionalArrays" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.Max_2_DimensionalArrays" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinArray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.MinArray" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinListNumber" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.MinListNumber" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MineSweeper" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.MineSweeper" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.data_structure_and_basic_algorithm.linkedList.MyLinkedList" />
+      <module name="data_structure_and_basic_algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.data_structure_and_basic_algorithm.myLinkedList.MyLinkedListTest" />
+      <module name="data_structure_and_basic_algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.data_structure_and_basic_algorithm.myList.MyListTest" />
+      <module name="data_structure_and_basic_algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point2D" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.inheritance.point2DAndPoint3D.Point2D" />
+      <module name="inheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point3D" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.inheritance.point2DAndPoint3D.Point3D" />
+      <module name="inheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoolingArray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.PoolingArray" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadraticEquation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.class_and_object_in_java.QuadraticEquation" />
+      <module name="class_and_object_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.class_and_object_in_java.Rectangle" />
+      <module name="class_and_object_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleComparator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.advanced_object_oriented_design.interfaceComparator.impl.RectangleComparator" />
+      <module name="advanced_object_oriented_design" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangularArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.javaprogramminglanguage.RectangularArea" />
+      <module name="java-programming-language" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.javaprogramminglanguage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.ReverseArray" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetExample" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.data_structure_and_basic_algorithm.SetExample" />
+      <module name="data_structure_and_basic_algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.advanced_object_oriented_design.interfaceComparator.impl.Square" />
+      <module name="advanced_object_oriented_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.advanced_object_oriented_design.interfaceComparator.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareComparator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.advanced_object_oriented_design.interfaceComparator.impl.SquareComparator" />
+      <module name="advanced_object_oriented_design" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StopWatch" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.class_and_object_in_java.StopWatch" />
+      <module name="class_and_object_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.data_structure_and_basic_algorithm.Student" />
+      <module name="data_structure_and_basic_algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOf1Column" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.SumOf1Column" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemperatureTransfer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.array_and_method_in_java.TemperatureTransfer" />
+      <module name="array_and_method_in_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.inheritance.Triangle" />
+      <module name="inheritance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.javaprogramminglanguage.GreatestCommonDivisor" />
+      <module name="java-programming-language" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdvancedObjectOrientedDesignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="advanced_object_oriented_design" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codegym.advanced_object_oriented_design.AdvancedObjectOrientedDesignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayAndMethodInJavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="array_and_method_in_java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codegym.array_and_method_in_java.ArrayAndMethodInJavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassAndObjectInJavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="class_and_object_in_java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codegym.class_and_object_in_java.ClassAndObjectInJavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataStructureAndBasicAlgorithmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="data_structure_and_basic_algorithm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codegym.data_structure_and_basic_algorithm.DataStructureAndBasicAlgorithmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="inheritance" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codegym.inheritance.InheritanceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CountCharacters" />
+      <item itemvalue="Application.GreatestCommonDivisor" />
+      <item itemvalue="Application.FindStudent" />
+      <item itemvalue="Application.InsertNumber" />
+      <item itemvalue="Application.MainDiagonal" />
+      <item itemvalue="Application.Max_2_DimensionalArrays" />
+      <item itemvalue="Application.MaxListNumber" />
+      <item itemvalue="Application.MinArray" />
+      <item itemvalue="Application.MineSweeper" />
+      <item itemvalue="Application.MinListNumber" />
+      <item itemvalue="Application.PoolingArray" />
+      <item itemvalue="Application.ReverseArray" />
+      <item itemvalue="Application.SumOf1Column" />
+      <item itemvalue="Application.TemperatureTransfer" />
+      <item itemvalue="Application.Fan" />
+      <item itemvalue="Application.QuadraticEquation" />
+      <item itemvalue="Application.Rectangle" />
+      <item itemvalue="Application.StopWatch" />
+      <item itemvalue="Application.Circle" />
+      <item itemvalue="Application.Cylinder" />
+      <item itemvalue="Application.Point2D" />
+      <item itemvalue="Application.Point3D" />
+      <item itemvalue="Application.Triangle" />
+      <item itemvalue="Application.RectangularArea" />
+      <item itemvalue="Application.CountStudent" />
+      <item itemvalue="Application.DeleteElement" />
+      <item itemvalue="Application.CircleComparator" />
+      <item itemvalue="Application.AbstractAndInterfaceTests" />
+      <item itemvalue="Application.ComparableCircle" />
+      <item itemvalue="Application.RectangleComparator" />
+      <item itemvalue="Application.SquareComparator" />
+      <item itemvalue="Application.Square" />
+      <item itemvalue="Application.MapString" />
+      <item itemvalue="Application.MyLinkedList" />
+      <item itemvalue="Application.MyLinkedListTest" />
+      <item itemvalue="Application.MyListTest" />
+      <item itemvalue="Application.SetExample" />
+      <item itemvalue="Application.Student" />
+      <item itemvalue="Spring Boot.ArrayAndMethodInJavaApplication" />
+      <item itemvalue="Spring Boot.ClassAndObjectInJavaApplication" />
+      <item itemvalue="Spring Boot.InheritanceApplication" />
+      <item itemvalue="Spring Boot.AdvancedObjectOrientedDesignApplication" />
+      <item itemvalue="Spring Boot.DataStructureAndBasicAlgorithmApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Square" />
+        <item itemvalue="Application.CircleComparator" />
+        <item itemvalue="Application.DeleteElement" />
+        <item itemvalue="Application.CountStudent" />
+        <item itemvalue="Application.CountCharacters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="403281f0-c734-4b5f-aca3-f5e0e625e243" name="Default Changelist" comment="" />
+      <created>1564714490764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564714490764</updated>
+      <workItem from="1564714497712" duration="8452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8452000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969034" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/CountStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/DeleteElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/FindStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/InsertNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MainDiagonal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/Max_2_DimensionalArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MaxListNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MinArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MineSweeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/MinListNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/PoolingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/ReverseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/SumOf1Column.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/TemperatureTransfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_and_method_in_java/src/main/java/com/codegym/array_and_method_in_java/CountCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/QuadraticEquation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-292">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/StopWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_and_object_in_java/src/main/java/com/codegym/class_and_object_in_java/Fan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/pointAndMoveablePoint/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/pointAndMoveablePoint/MoveAblePoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/point2DAndPoint3D/Point2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/point2DAndPoint3D/Point3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/circleAndCylinder/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/circleAndCylinder/Cylinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/systemOfGeometricObjects/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/Resizeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="72" selection-start-column="72" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/Colorable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="72" selection-start-column="72" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/CircleComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/ComparableCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/SquareComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/RectangleComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced_object_oriented_design/src/main/java/com/codegym/advanced_object_oriented_design/interfaceComparator/impl/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inheritance/src/main/java/com/codegym/inheritance/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/SetExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/MapString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myList/MyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myList/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/myLinkedList/MyLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/linkedList/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure_and_basic_algorithm/src/main/java/com/codegym/data_structure_and_basic_algorithm/linkedList/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="advanced_object_oriented_design" />
+        <module name="array_and_method_in_java" />
+        <module name="class_and_object_in_java" />
+        <module name="data_structure_and_basic_algorithm" />
+        <module name="inheritance" />
+        <module name="java-core" />
+        <module name="java-programming-language" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="advanced_object_oriented_design" target="1.8" />
+      <module name="array_and_method_in_java" target="1.8" />
+      <module name="class_and_object_in_java" target="1.8" />
+      <module name="data_structure_and_basic_algorithm" target="1.8" />
+      <module name="inheritance" target="1.8" />
+      <module name="java-core" target="1.8" />
+      <module name="java-programming-language" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="advanced_object_oriented_design" options="-parameters" />
+      <module name="array_and_method_in_java" options="-parameters" />
+      <module name="class_and_object_in_java" options="-parameters" />
+      <module name="data_structure_and_basic_algorithm" options="-parameters" />
+      <module name="inheritance" options="-parameters" />
+      <module name="java-core" options="-parameters" />
+      <module name="java-programming-language" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/advanced_object_oriented_design" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/array_and_method_in_java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/class_and_object_in_java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_structure_and_basic_algorithm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inheritance" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-programming-language" charset="UTF-8" />
+  </component>
+</project>
